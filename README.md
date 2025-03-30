@@ -1,7 +1,7 @@
 # system-design-interview
 가상 면접 사례로 배우는 대규모 시스템 설계 기초
 
-date : 2024-11-17 ~ On going
+date : 2024-11-17 ~ 2025-03-16
 
 members  
 김진호 ( @zinokim )  
